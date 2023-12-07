@@ -22,4 +22,22 @@ Welcome to the Number Guessing Game! This is a simple Python project where you c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/atharv-451/Guess-Number.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Guess-Number
+
+3. Run the Python Script
+
+   ```bash
+   python guess_num.py
+
+##Customize
+
+- Feel free to customize the game or add new features to make it more enjoyable. You can modify the difficulty levels, hints, or even integrate additional functionalities.
+
+##Contributing
+- If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+
