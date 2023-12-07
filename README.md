@@ -5,10 +5,9 @@ Welcome to the Number Guessing Game! This is a simple Python project where you c
 ## How to Play
 
 1. Run the Python script (`guess_num.py`).
-2. Choose a difficulty level (easy, medium, hard).
-3. Guess the secret number between the specified range.
-4. The computer will provide hints based on the difference between your guess and the secret number.
-5. Keep guessing until you either find the correct number or run out of attempts.
+2. Guess the secret number between the specified range.
+3. The computer will provide hints based on the difference between your guess and the secret number.
+4. Keep guessing until you either find the correct number or run out of attempts.
 
 ## Features
 
