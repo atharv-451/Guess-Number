@@ -34,10 +34,11 @@ Welcome to the Number Guessing Game! This is a simple Python project where you c
    ```bash
    python guess_num.py
 
-##Customize
+## Customize
 
 - Feel free to customize the game or add new features to make it more enjoyable. You can modify the difficulty levels, hints, or even integrate additional functionalities.
 
-##Contributing
+## Contributing
+
 - If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
